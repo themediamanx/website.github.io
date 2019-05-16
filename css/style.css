@@ -25,30 +25,27 @@ img {
   border-radius: 4px;
 }
 
-.canvas{
+.canvas {
   width: 200px;
   height: 200px;
   color: rgba(255, 20, 42, 1);
-
 }
 
 .flex-container {
   padding: 0;
   margin: 0;
   list-style: none;
-
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
 }
 
 .flex-item {
-  background:rgb(6, 42, 250);
+  background: rgb(6, 42, 250);
   padding: 5px;
   width: 400px;
   height: 400px;
