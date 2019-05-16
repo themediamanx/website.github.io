@@ -8,6 +8,12 @@ h1 {
   line-height: 310pt;
 }
 
+body {
+  text-align: left;
+  font-size: 16px;
+  line-height: 27px;
+}
+
 h2 {
   text-align: left;
   font-size: 16pt;
