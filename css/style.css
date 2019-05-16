@@ -26,6 +26,10 @@ img {
   border-radius: 4px;
 }
 
+style {
+  background-color: rgb(21, 57, 207)
+}
+
 .canvas {
   width: 200px;
   height: 200px;
@@ -46,7 +50,7 @@ img {
 }
 
 .flex-item {
-  background: rgb(6, 42, 250);
+  background: rgb(21, 57, 207);
   padding: 5px;
   width: 400px;
   height: 1200px;
